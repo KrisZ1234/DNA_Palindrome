@@ -33,9 +33,10 @@ public class PostfixToInfix {
 					 */
 					String newString = "(" + queue.tail.getPrevious().getData() 
 					                       + character
-			                               + queue.removeLast() + ")";
-			        queue.removeLast();
-			        queue.addLast(newString);
+			                                       + queue.removeLast() + ")";
+					
+			                queue.removeLast();
+			                queue.addLast(newString);
 				}
 			}//for
 			queue.printQueue(System.out);
