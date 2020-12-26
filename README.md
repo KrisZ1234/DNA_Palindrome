@@ -1,4 +1,4 @@
-# Data_Structures_01
+# Academic project for course: Data Structures
 
 H διεπαφή StringDoubleEndedQueue δηλώνει τις βασικές μεθόδους για μια ουρά, η οποία χειρίζεται
 στοιχεία τύπου String, και στην οποία μπορεί να γίνεται εισαγωγή και διαγραφή στοιχείων και
